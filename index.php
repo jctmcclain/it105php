@@ -4,7 +4,7 @@
 echo('<h1>Welcome to our cool site</h1>');
 echo('<hr>');
 $speaktome = "IT 105 programming";
-echo('<h3>' + $speaktome + '</h3>'); 
+echo('<h3>' . $speaktome . '</h3>'); 
 ?>
 <p>
 <b>PHP</b>
