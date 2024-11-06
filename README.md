@@ -115,7 +115,7 @@ select * from equipment;
 
 * Insert a record into the equipment table
 ```sql
-insert into equipment(p_sku,p_name,p_description,p_	qty)
+insert into equipment(p_sku,p_name,p_description,p_qty)
 values('100','carabiner','stuff',8);
 ```
 
