@@ -100,7 +100,8 @@ use inventory;
 
 * Create a table in the Database 
 ```sql 
-create table equipment(id int auto_increment primary key, 
+create table equipment(
+id int auto_increment primary key, 
 p_sku varchar(30), 
 p_name varchar(50),
 p_description varchar(100), 
