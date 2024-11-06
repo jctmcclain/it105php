@@ -1,5 +1,9 @@
 # IT 105 PHP Code 
 
+## Ubuntu Server
+* [Ubuntu Server](https://ubuntu.com/download/server)
+
+
 ## Build a LAMP Installation 
 ### LAMP 
 * Linux
