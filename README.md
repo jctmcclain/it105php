@@ -81,7 +81,7 @@ mysql
 
 The MySQL (Mariadb) Command Line prompt 
 
-** mariadb> **
+**mariadb>**
 
 * Show Databases 
 ```sql
