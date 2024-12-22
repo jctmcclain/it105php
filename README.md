@@ -98,6 +98,8 @@ create database inventory;
 use inventory;
 ```
 
+### Status: 3/4 Baked 
+#### Associated with a Course
 * Create a table in the Database 
 ```sql 
 create table equipment(
